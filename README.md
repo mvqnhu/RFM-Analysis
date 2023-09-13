@@ -1,5 +1,5 @@
 # RFM-Analyst
-This project aims to analysis segment of customer bases on RFM Model, so that Marketing team can deploy each marketing program suitable for each customer group.
+🚀This project aims to analysis segment of customer bases on RFM Model, so that Marketing team can deploy each marketing program suitable for each customer group.
 ## I.Introduction
 ### 1.What is RFM?
 RFM is a marketing analysis technique that stands for Recency, Frequency, and Monetary Value.
